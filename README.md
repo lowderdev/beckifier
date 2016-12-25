@@ -47,10 +47,8 @@ beckifier: beckify         # does all of the above
 <br>
 #### Issues:
 <br>
-Right now interpolation brackets are getting spaces added. Not sure I want that. 
-`"#{string}"`
-becomes
-`"#{ string }"`
+Right now interpolation brackets are getting spaces added. Not sure I want that.  
+`"#{string}"` becomes `"#{ string }"`
 
 <br>
 #### Contributing:
