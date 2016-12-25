@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Fetch code",
+        "command": "beckifier:fetch"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "beckifier",
+          "submenu": [
+            {
+              "label": "Fetch code",
+              "command": "beckifier:fetch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
