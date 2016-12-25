@@ -2,10 +2,10 @@
   "name": "beckifier",
   "main": "./lib/beckifier",
   "version": "0.1.0",
-  "description": "A short description of your package",
+  "description": "An Atom plugin to keep Grandpa Beck happy",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "beckifier:toggle"
+    "atom-workspace": "beckifier:beckify"
   },
   "repository": "https://github.com/lowderl/beckifier",
   "license": "MIT",

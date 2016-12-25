@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Fetch code",
-        "command": "beckifier:fetch"
+        "label": "Beckify code",
+        "command": "beckifier:beckify"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "beckifier",
           "submenu": [
             {
-              "label": "Fetch code",
-              "command": "beckifier:fetch"
+              "label": "Beckify code",
+              "command": "beckifier:beckify"
             }
           ]
         }

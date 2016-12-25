@@ -1,4 +1,7 @@
-This (   asdf) is a "test" asd ()
+my_method( has_bad_spacing  )
+  my_hash = {also: has_bad_spacing, and: "unnecessary double quotes"}
+  puts my_hash
+end
 
 This is a hash {a:1}
 
