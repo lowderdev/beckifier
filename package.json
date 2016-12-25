@@ -1,7 +1,7 @@
 {
   "name": "beckifier",
   "main": "./lib/beckifier",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "An Atom plugin to keep Grandpa Beck happy",
   "keywords": [],
   "activationCommands": {
