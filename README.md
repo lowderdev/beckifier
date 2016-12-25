@@ -25,9 +25,9 @@ will become:
 
 ```
 my_method(bad_spacing)
-  my_hash = { has: bad_spacing, and: 'double quotes' }
-  puts "Quotes with interpolation will not change: #{my_hash}"
-  puts "Won't change quotes with single quotes either."
+  my_hash = { has: bad_spacing, and: 'double quotes'}
+  puts "These quotes stay: #{ my_hash }"
+  puts "Won't change strings with ' in them"
 end
 ```
 <br>
