@@ -31,7 +31,7 @@ my_method(bad_spacing)
 end
 ```
 <br>
-#### Ideas for the future: ####  
+#### Ideas for the future:
 <br>
 <br>
 Right now running `beckifier: beckify` will replace everything.
